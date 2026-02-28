@@ -1,11 +1,16 @@
-import subprocess
+"""Tests for the hello world module."""
+import io
 import sys
 
+from src.hello import main
+
+
 def test_hello_world_output():
-    result = subprocess.run(
-        [sys.executable, "src/hello.py"],
-        capture_output=True,
-        text=True
-    )
-    assert result.returncode == 0
-    assert result.stdout.strip() == "Hello World"
+    """Verify that main() prints 'Hello World' to stdout."""
+    captured = io.StringIO()
+    sys.stdout = captured
+    try:
+        main()
+    finally:
+        sys.stdout = sys.__stdout__
+    assert captured.getvalue().strip() == "Hello World"
