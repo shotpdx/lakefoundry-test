@@ -1,6 +1,17 @@
 # Hello World
 
-A simple Python hello world project.
+A simple Python hello world script demonstrating basic project structure with source code in `src/` and tests in `tests/`.
+
+## Requirements
+
+- Python 3.x
+
+## Project Structure
+
+```
+src/        # Source code
+tests/      # Test suite
+```
 
 ## Usage
 
