@@ -2,6 +2,17 @@
 
 A simple Python hello world project.
 
+## Requirements
+
+- Python 3.x
+
+## Project Structure
+
+```
+src/        # Source code
+tests/      # Tests
+```
+
 ## Usage
 
 ```bash
