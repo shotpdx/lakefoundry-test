@@ -1,0 +1,12 @@
+# tests/test_hello.py
+import subprocess
+import sys
+
+def test_hello_world_output():
+    result = subprocess.run(
+        [sys.executable, "src/hello.py"],
+        capture_output=True,
+        text=True
+    )
+    assert result.returncode == 0
+    assert "Hello World" in result.stdout
