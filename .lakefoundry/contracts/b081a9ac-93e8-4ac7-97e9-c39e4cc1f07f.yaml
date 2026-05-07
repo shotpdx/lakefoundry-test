@@ -1,0 +1,22 @@
+id: b081a9ac-93e8-4ac7-97e9-c39e4cc1f07f
+title: Doggy DayCare
+workType: DATA_PRODUCT
+lifecycle: DRAFT
+version: 0.1.0
+outcome: ''
+artifactPlan: ''
+decisions: []
+assumptions: []
+openQuestions: []
+contextSources: []
+qualityScore: 0
+qualityDimensions:
+  coverage: 0
+  specificity: 0
+  executability: 0
+  riskClarity: 0
+  acceptanceReadiness: 0
+  repoReadiness: 0
+validationStatus: pending
+validationSummary: ''
+updatedAt: '2026-05-07T04:51:11.159107+00:00'
