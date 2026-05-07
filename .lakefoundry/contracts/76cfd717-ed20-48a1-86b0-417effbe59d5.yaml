@@ -1,0 +1,25 @@
+id: 76cfd717-ed20-48a1-86b0-417effbe59d5
+title: Next-Generation Conversational AI (ChatGPT-like)
+workType: EXPLORATION
+lifecycle: DRAFT
+version: 0.1.0
+outcome: Explore the feasibility and define the scope for building a next-generation
+  conversational AI model, similar to ChatGPT, leveraging Databricks capabilities.
+  This involves understanding the necessary data, infrastructure, model architectures,
+  and potential use cases within the organization.
+artifactPlan: ''
+decisions: []
+assumptions: []
+openQuestions: []
+contextSources: []
+qualityScore: 0
+qualityDimensions:
+  coverage: 0
+  specificity: 0
+  executability: 0
+  riskClarity: 0
+  acceptanceReadiness: 0
+  repoReadiness: 0
+validationStatus: pending
+validationSummary: ''
+updatedAt: '2026-05-07T05:07:17.507404+00:00'
