@@ -1,0 +1,23 @@
+id: 741bfb3f-3e74-40ee-b45a-6881fbd1a8a2
+title: Data Ingestion Pipeline
+workType: DATA_PRODUCT
+lifecycle: DRAFT
+version: 0.1.0
+outcome: The goal of this project is to build a data pipeline to ingest data from
+  a specific source, making it available for further processing and analysis.
+artifactPlan: ''
+decisions: []
+assumptions: []
+openQuestions: []
+contextSources: []
+qualityScore: 0
+qualityDimensions:
+  coverage: 0
+  specificity: 0
+  executability: 0
+  riskClarity: 0
+  acceptanceReadiness: 0
+  repoReadiness: 0
+validationStatus: pending
+validationSummary: ''
+updatedAt: '2026-05-07T04:30:33.516596+00:00'
